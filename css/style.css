@@ -55,7 +55,7 @@ p {
 
 footer {
     background: url(../assets/mobile/image-footer.jpg);
-    background-size: 428px 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 428px;
     width: 100%;
@@ -227,6 +227,7 @@ footer .download-btn span {
 
     footer {
         background: url(../assets/desktop/image-footer.jpg);
+        background-size: cover;
         height: 308px;
         min-width: 100vh;
     }
